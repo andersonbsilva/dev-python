@@ -1,3 +1,9 @@
+######
+#  Exemplo de uso:
+#    API tweeter
+#    Processamento natural de linguagem
+#    Análise de sentimento
+######
 import tweepy
 from textblob import TextBlob
 

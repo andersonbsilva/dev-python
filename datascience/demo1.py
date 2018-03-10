@@ -1,4 +1,6 @@
-# test
+######
+#  Exemplo de uso de classificadores.
+######
 from sklearn import tree
 
 clf = tree.DecisionTreeClassifier()
