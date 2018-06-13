@@ -1,2 +1,5 @@
 arquivo inicial
 adicionado arquivo A
+adicionado arquivo B
+adicionado arquivo B1
+adicionado arquivo B2
